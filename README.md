@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Cloud Infrastructure and Headless ML/Deep Learning Models at Oracle<br>💡 I'm currently taking a deep dive into ETL, ELT, and streaming pipelines<br>✈️ I love to hike, travel, and Star Wars<br>💬 Ask me anything about Data Science related topics
+🔭 I'm currently working on Cloud Infrastructure and Headless ML/Deep Learning Models at Oracle<br>
 
 
 ## 🌐 Socials:

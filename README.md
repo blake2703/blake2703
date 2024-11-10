@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I'm currently working on Cloud Infrastructure and Headless ML/Deep Learning Models at Oracle<br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-dickerson) 
 
